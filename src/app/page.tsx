@@ -8,11 +8,11 @@ export default function Home() {
       <main>
           <Banner/>
 
-          <div /*style={{margin: "30px" , display: "flex",
+          <div style={{margin: "30px" /*, display: "flex",
             flexDirection: "row", alignContent: "space-around",
             justifyContent: "space-around", flexWrap: "wrap",
-            rowGap: "30px"
-          }}*/>
+            rowGap: "30px"*/
+          }}>
             <Card/>
           </div>
       </main>
