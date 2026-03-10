@@ -14,11 +14,6 @@ export default function Home() {
             rowGap: "30px"
           }}>
             <Card/>
-            <Card/>
-            <Card/>
-            <Card/>
-            <Card/>
-            <Card/>
           </div>
       </main>
       
